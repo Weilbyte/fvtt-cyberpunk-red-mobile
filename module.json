@@ -1,0 +1,14 @@
+{
+  "id": "cyberpunk-red-mobile",
+  "title": "Cyberpunk RED Mobile Sheet",
+  "version": "1.0.0",
+  "description": "Makes the Cyberpunk RED player character sheet more mobile-friendly. Meant for use with the \"Sheet Only\" module.",
+  "system": ["cyberpunk-red-core"],
+  "styles": ["style.css"],
+  "authors": [
+    {
+      "id": "Weilbyte",
+      "email": "me@weilbyte.dev",
+    }
+  ]
+}
