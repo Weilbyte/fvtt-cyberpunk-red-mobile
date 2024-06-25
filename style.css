@@ -1,0 +1,59 @@
+@media (max-width: 1023px), (max-height: 699px) {
+    .actor-sheet {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .actor-sheet .left-pane {
+        grid-template-columns: 70% 30%;
+    }
+    
+      
+    .actor-sheet .right-pane, .actor-sheet .bottom-pane  {
+        margin-top: 0.5rem;
+    }
+    
+    .skills-tab .skills-container {
+        display: block;
+    }
+    
+    .lifepath-tab {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .lifepath-tab .notes-section .note-pad {
+        min-height: 4rem;
+    }
+    
+    .fight-tab {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .tab-label {
+        min-width: 0 !important;
+    }
+    
+    .tab-label.tab-indent {
+        clip-path: none;
+    }
+    
+    .tab-pink-underlay {
+        margin-left: none;
+        clip-path: none;
+    }
+    
+    .cpr-tabs > * {
+        margin-right: 1rem;
+    }
+    
+    .cpr-tabs > *:nth-child(4) {
+        margin-right: 0rem !important;
+    }
+      
+    .gear-tab .gear-actions > * {
+        margin-right: 0.5rem;
+        margin-top: 0.5rem;
+    }
+}
