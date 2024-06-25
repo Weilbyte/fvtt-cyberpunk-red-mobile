@@ -7,7 +7,7 @@
   "styles": ["style.css"],
   "authors": [
     {
-      "id": "Weilbyte",
+      "name": "Weilbyte",
       "email": "me@weilbyte.dev"
     }
   ]
