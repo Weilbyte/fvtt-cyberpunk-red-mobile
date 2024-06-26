@@ -10,5 +10,7 @@
       "name": "Weilbyte",
       "email": "me@weilbyte.dev"
     }
-  ]
+  ],
+  "manifest": "https://raw.githubusercontent.com/Weilbyte/fvtt-cyberpunk-red-mobile/main/module.json",
+  "download": "https://github.com/Weilbyte/fvtt-cyberpunk-red-mobile/releases/latest/download/module.zip"
 }
